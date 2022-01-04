@@ -3,7 +3,7 @@
 CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 
 ### 참여자
-* 김상렬
+* 김상렬, 강성민, 장준영
 
 
 ### 진행방식
@@ -34,3 +34,6 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 
 
 ### 참고자료
+
+* Chater1 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-1.pdf
+* Chater 2 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-2.pdf
