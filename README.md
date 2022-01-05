@@ -35,5 +35,11 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 
 ### 참고자료
 
-* Chater1 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-1.pdf
-* Chater 2 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-2.pdf
+* Chapter1 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-1.pdf
+* Chapter 2 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-2.pdf
+* Chapter 3 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-3.pdf
+* Chapter 8 : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-slides-8.pdf
+
+* https://lear.inrialpes.fr/~jegou/bishopreadinggroup/
+
+
