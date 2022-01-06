@@ -18,7 +18,7 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 ### 발표
 |       Date       | Week | Topic | Presenters | Material |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| 2022-01-06 | 1  | 1. 소개(Introduction) | 김상렬 | |
+| 2022-01-06 | 1  | 1. 소개(Introduction) | 김상렬 | [materials](./materials/chap1)|
 | 2022-01-13 | 2  | 2. 확률분포(Probability Distribution) | 김상렬 | |
 | 2022-01-20 | 3  | 3. 선형회귀모델(Linear Models for Regression) |  | |
 | 2022-01-27 | 4  | 4. 선형분류모델(Linear Models for Classification)  |  | |
