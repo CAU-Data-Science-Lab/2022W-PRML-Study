@@ -20,9 +20,9 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
 | 2022-01-06 | 1  | 1. 소개(Introduction) | 김상렬 | [materials](./materials/chap1)|
 | 2022-01-13 | 2  | 2. 확률분포(Probability Distribution) | 김상렬 | |
-| 2022-01-20 | 3  | 3. 선형회귀모델(Linear Models for Regression) |  | |
-| 2022-01-27 | 4  | 4. 선형분류모델(Linear Models for Classification)  |  | |
-| 2022-02-03 | 5  | 5. 뉴럴 네트워크(Neural Networks) |  | |
+| 2022-01-20 | 3  | 3. 선형회귀모델(Linear Models for Regression) | 정동인 | |
+| 2022-01-27 | 4  | 4. 선형분류모델(Linear Models for Classification)  | 장준영 | |
+| 2022-02-03 | 5  | 5. 뉴럴 네트워크(Neural Networks) | 강성민 | |
 | 2022-02-10 | 6  | 6. 커널 방법론(Kernel Methods) |  | |
 | 2022-02-17 | 7  | 7. 희박한 커널 머신(Sparse Kernel Machines) |  | |
 | 2022-02-24 | 8  | 8. 그래프 모델(Graphical Models) |  | |
