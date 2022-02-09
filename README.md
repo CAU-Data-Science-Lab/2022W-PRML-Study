@@ -3,7 +3,7 @@
 CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 
 ### 참여자
-* 김상렬, 강성민, 장준영, 이원민 
+* 김상렬, 정동인, 장준영, 이원민 
 
 
 ### 진행방식
@@ -22,7 +22,7 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 | 2022-01-13 | 2  | 2. 확률분포(Probability Distribution) | 김상렬 | |
 | 2022-01-20 | 3  | 3. 선형회귀모델(Linear Models for Regression) | 정동인 | [materials](https://jungdongin.notion.site/Ch-3-c9d10323934949528ca2524b79a597b3)|
 | 2022-01-27 | 4  | 4. 선형분류모델(Linear Models for Classification)  | 장준영 | [materials](https://pentagonal-turtle-a8f.notion.site/PRML-CH4-a6807df826c840d08779e8d0ffb42fac)|
-| 2022-02-03 | 5  | 5. 뉴럴 네트워크(Neural Networks) | 강성민 | |
+| 2022-02-10 | 5  | 5. 뉴럴 네트워크(Neural Networks) | 김상렬 | |
 | 2022-02-10 | 6  | 6. 커널 방법론(Kernel Methods) |  | |
 | 2022-02-17 | 7  | 7. 희박한 커널 머신(Sparse Kernel Machines) |  | |
 | 2022-02-24 | 8  | 8. 그래프 모델(Graphical Models) |  | |
