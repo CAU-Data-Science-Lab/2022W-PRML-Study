@@ -23,7 +23,7 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 | 2022-01-20 | 3  | 3. 선형회귀모델(Linear Models for Regression) | 정동인 | [materials](https://jungdongin.notion.site/Ch-3-c9d10323934949528ca2524b79a597b3)|
 | 2022-01-27 | 4  | 4. 선형분류모델(Linear Models for Classification)  | 장준영 | [materials](https://pentagonal-turtle-a8f.notion.site/PRML-CH4-a6807df826c840d08779e8d0ffb42fac)|
 | 2022-02-10 | 5  | 5. 뉴럴 네트워크(Neural Networks) | 김상렬 | [materials](./materials/chap5.pdf)|
-| 2022-02-10 | 6  | 6. 커널 방법론(Kernel Methods) | 장준영 | |
+| 2022-02-10 | 6  | 6. 커널 방법론(Kernel Methods) | 장준영 | [m1](https://pentagonal-turtle-a8f.notion.site/PRML-CH6-c7f7906633524c54b344dfa9ee9d38a6) |
 | 2022-02-17 | 7  | 7. 희박한 커널 머신(Sparse Kernel Machines) | 이원민 | |
 | 2022-02-24 | 8  | 8. 그래프 모델(Graphical Models) | 정동인 | |
 | 2022-03-03 | 9  | 9. 혼합 모델과 EM(Mixture Models and EM) | 김상렬  | |
