@@ -25,7 +25,7 @@ CAU DSLAB 겨울 학술 스터디중 PRML 스터디입니다.
 | 2022-02-10 | 5  | 5. 뉴럴 네트워크(Neural Networks) | 김상렬 | [materials](./materials/chap5.pdf)|
 | 2022-02-10 | 6  | 6. 커널 방법론(Kernel Methods) | 장준영 | [m1](https://pentagonal-turtle-a8f.notion.site/PRML-CH6-c7f7906633524c54b344dfa9ee9d38a6) [m2](./materials/chap6.pdf)|
 | 2022-02-17 | 7  | 7. 희박한 커널 머신(Sparse Kernel Machines) | 정동인 | [materials](https://jungdongin.notion.site/Ch-7-90e3cd1b89ba418eb0d6293d254850f0) |
-| 2022-02-24 | 8  | 8. 그래프 모델(Graphical Models) |  | |
+| 2022-02-24 | 8  | 8. 그래프 모델(Graphical Models) | 정동인 | [materials](https://jungdongin.notion.site/Ch-8-0969df6b26dd461183bbe395555e8274) |
 | 2022-03-03 | 9  | 9. 혼합 모델과 EM(Mixture Models and EM) | 김상렬  | |
 | 2022-03-10 | 10 | 10. 근사 추정(Approximate Inference) |  | |
 | 2022-03-17 | 11  | 11. 표집법(Sampling Methods) |  | |
